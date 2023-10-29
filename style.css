@@ -1,0 +1,157 @@
+body {
+    background-color: #252422;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#head {
+    margin: 200px;
+    margin-bottom: 300px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #fffcf2;
+    margin: 10px 30px;
+}
+
+#a:hover {
+    color: #eb5e28;
+}
+
+#home {
+    margin: 200px;
+    margin-top: 5px;
+    margin-bottom: 300px;
+    text-align: left;
+}
+
+img {
+    border-style: outset;
+    border-color: #ccc5b9;
+    border-width: 10px;
+    border-radius: 50px;
+}
+
+p #hi {
+    font-size: 40px;
+    color: #403d39;
+} 
+
+p #houssem {
+    font-size: 50px;
+    color: #fffcf2;
+} 
+
+p #welcome {
+    font-size: 50px;
+    color: #ccc5b9;
+} 
+
+h1 {
+    text-align: center;
+    color: #eb5e28;
+    font-size: 50px;
+}
+
+#about {
+    margin: 200px;
+    margin-top: 5px;
+    margin-bottom: 300px;
+}
+
+#aboutsm {
+    font-size: 40px;
+    color: #fffcf2;
+}
+
+#skills {
+    color: #ccc5b9;
+    font-size: 37px;
+}
+
+#portfolio {
+    font-size: 27px;
+    color: #fffcf2;
+    margin: 200px;
+    margin-top: 5px;
+    margin-bottom: 300px;
+}
+
+#contact {
+    background-color: #eb5e28;
+    margin: 200px;
+    margin-top: 5px;
+    margin-bottom: 100px;
+    padding: 50px 70px;
+    border: solid;
+    border-color: #fffcf2;
+    border-radius: 10px;
+    border-width: 5px;
+}
+
+label {
+    font-size: 30px;
+    color: #fffcf2;
+    text-align: left;
+}
+
+#fullname {
+    background-color: #eb5e28;
+    border: solid;
+    border-color: #fffcf2;
+    border-radius: 10px;
+    border-width: 5px;
+    font-size: 20px;
+    color: #fffcf2;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+#email {
+    background-color: #eb5e28;
+    border: solid;
+    border-color: #fffcf2;
+    border-radius: 10px;
+    border-width: 5px;
+    font-size: 20px;
+    color: #fffcf2;
+    margin-bottom: 10px;
+    margin-left: 52px;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+#message {
+    background-color: #eb5e28;
+    border: solid;
+    border-color: #fffcf2;
+    border-radius: 10px;
+    border-width: 5px;
+    font-size: 20px;
+    color: #fffcf2;
+    margin-bottom: 30px;
+    margin-left: 35.5px;
+    padding: 40px 20px;
+    text-align: left;
+}
+
+input[type="submit"] {
+    background-color: #fffcf2;
+    color: #eb5e28;
+    font-size: 30px;
+    padding: 10px 50px;
+    border: outset;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 80%;
+}
+
+footer {
+    background-color: #eb5e28;
+    color: #fffcf2;
+    font-size: 20px;
+    text-align: center;
+}
